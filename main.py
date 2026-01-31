@@ -58,7 +58,7 @@ while True:
                     json.dump( list1,j, indent=4)
                 print("records added successfully")
             else:
-                print("name and dept must be alphabetic")
+                print("name and dept must be alphabets")
 
     elif c=='3':
 

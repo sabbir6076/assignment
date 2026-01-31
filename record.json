@@ -1,0 +1,20 @@
+[
+    {
+        "name": "q",
+        "roll": 1,
+        "email": "w",
+        "dept": "e"
+    },
+    {
+        "name": "a",
+        "roll": 2,
+        "email": "s",
+        "dept": "d"
+    },
+    {
+        "name": "z",
+        "roll": 3,
+        "email": "x",
+        "dept": "c"
+    }
+]

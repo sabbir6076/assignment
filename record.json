@@ -1,20 +1,20 @@
 [
     {
         "name": "sabbir",
+        "roll": 1,
+        "email": "sabbir@gmail.com",
+        "dept": "EEE"
+    },
+    {
+        "name": "Sakib",
         "roll": 2,
-        "email": "s",
-        "dept": "d"
+        "email": "sakib@gmail.com",
+        "dept": "CE"
     },
     {
-        "name": "z",
-        "roll": 3,
-        "email": "x",
-        "dept": "c"
-    },
-    {
-        "name": "qqq",
+        "name": "Habib",
         "roll": 4,
-        "email": "www",
-        "dept": "eee"
+        "email": "habib@gmail.com",
+        "dept": "ME"
     }
 ]
